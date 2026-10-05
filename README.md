@@ -10,7 +10,7 @@ The first visit asks you to start a project or import one. The project is saved 
 
 ## Carry project data between browsers or devices
 
-- `sales-order-middleware-phase1.json` is the starter dataset for the dashboard.
+- `sales-order-middleware-phase1.json` is an optional sample project. The site itself starts blank.
 - Choose **Import JSON** and select that file (or a previously exported project file) to load tasks.
 - Edit tasks in the dashboard, then choose **Export JSON** to download a portable copy for the next import.
 - Import replaces the current task list. Export includes the format/version, project details, export time, and task fields (including dependencies).
