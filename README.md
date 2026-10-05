@@ -4,7 +4,9 @@ A browser-based project control center for the 3-week Sales Order Viewing Middle
 
 ## Open
 
-Open `index.html` in a modern browser. The app saves edits in that browser's local storage.
+The public page is [https://carrick87.github.io/web.CS.ProjectControlCenter/](https://carrick87.github.io/web.CS.ProjectControlCenter/). You can also open `index.html` in a modern browser.
+
+The first visit asks you to start a project or import one. The project is saved in that browser only. Choose **Export JSON** to download a copy, and **Import JSON** to open it again.
 
 ## Carry project data between browsers or devices
 

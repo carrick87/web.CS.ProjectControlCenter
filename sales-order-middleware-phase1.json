@@ -1,8 +1,17 @@
 {
   "format": "sales-order-project-control-center",
-  "version": 1,
+  "version": 3,
   "project": {
     "name": "Sales Order Viewing Middleware",
+    "title": "Sales Order Middleware",
+    "logo": "",
+    "startDate": "",
+    "endDate": "",
+    "showToday": true,
+    "heroHeading": "Phase 1 · Project control center",
+    "heroSummary": "A shared view of delivery, ownership and readiness for Sales Order viewing.",
+    "windowLabel": "Project window",
+    "windowText": "3 weeks · 15 working days",
     "phase": "Phase 1",
     "durationWorkingDays": 15,
     "weeks": [
@@ -12,6 +21,26 @@
     ]
   },
   "exportedAt": "2026-10-05T04:47:59.520Z",
+  "team": [
+    {
+      "id": "m1",
+      "name": "Project Manager",
+      "role": "Delivery lead",
+      "color": "#3568d4"
+    },
+    {
+      "id": "m2",
+      "name": "MIS Team",
+      "role": "Build and environment",
+      "color": "#169b91"
+    },
+    {
+      "id": "m3",
+      "name": "Sales Team",
+      "role": "Business owner",
+      "color": "#e6a43a"
+    }
+  ],
   "tasks": [
     {
       "id": "t1",
